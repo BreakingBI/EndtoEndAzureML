@@ -7,19 +7,19 @@ The Hack Project is scheduled for three days (4/6/2021-4/8/2021). Here is the te
 
 # Typical life cycle of a machine learning project with Azure ML.
 Below is the typical life cyle of a machine learning project. Our task will revolve around the life cyle of the project
-## Architect the machine learning solution to solve the business problem
-## Work with the machine learning models to solve the specific business problem
-### Build ML models in Python or R 
-### Train Model
-### Package Model
-### Validate Model
-### Deploy Model
-## Automate the Model Management and ## Operationalize the machine learning solution
-### Continuous Integration
-### Continuous Deployment
+* Architect the machine learning solution to solve the business problem
+* Work with the machine learning models to solve the specific business problem
+  * Build ML models in Python or R 
+  * Train Model
+  * Package Model
+  * Validate Model
+  * Deploy Model
+* Automate the Model Management and Operationalize the machine learning solution
+  * Continuous Integration
+  * Continuous Deployment
 
 
-
+# Task List
 
 
 
