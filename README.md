@@ -24,7 +24,9 @@ Below is the typical life cyle of a machine learning project. Our task will revo
 
 
 # Task List
-
+ * Curate Sample Model and Data for the walkthrough
+ * Curate Azure ML Project Proecess Documentation/Architectures/Best Practices
+ * Curate Feedbacks from multiple FTA Projects to incorporate on the 
 
 
 
