@@ -3,7 +3,11 @@ Welcome to FastHack 2021 project - End to End Azure ML. In this hack project, ou
 
 # Logictics
 The Hack Project is scheduled for three days (4/6/2021-4/8/2021). Here is the tentative plan for the project
+ * 4/6/2021 - Project Kickoff/Azure ML Artifacts Curation 
+ * 4/7/2021 - Azure ML Artifacts validation, following the Azure ML project lifecyle
+ * 4/8/2021 - PPT/Video preparation, closing
 
+We will use this repository for all code samples we leverage for the hack.
 
 # Typical life cycle of a machine learning project with Azure ML.
 Below is the typical life cyle of a machine learning project. Our task will revolve around the life cyle of the project
