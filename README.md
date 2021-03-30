@@ -1,13 +1,27 @@
 # EndtoEndAzureML
 Welcome to FastHack 2021 project - End to End Azure ML. In this hack project, our primmary goal is to curate and validate Azure ML artifacts in an effort to ease the delivery of Azure Machine Learning projects/engagements (1 to many) for FastTrack customers. We will review the typical journey a data scientist would take, starting from ML model creation, all the way to operationalizng the model in a team environment, following Agile methodology.
 
+# Logictics
+The Hack Project is scheduled for three days (4/6/2021-4/8/2021). Here is the tentative plan for the project
+
+
 # Typical life cycle of a machine learning project with Azure ML.
+Below is the typical life cyle of a machine learning project. Our task will revolve around the life cyle of the project
+## Architect the machine learning solution to solve the business problem
+## Work with the machine learning models to solve the specific business problem
+### Build ML models in Python or R 
+### Train Model
+### Package Model
+### Validate Model
+### Deploy Model
+## Automate the Model Management and ## Operationalize the machine learning solution
+### Continuous Integration
+### Continuous Deployment
 
 
 
- 
 
-# Engagements delivery guidelines and learning resources
+
 
 
 # Contributing
