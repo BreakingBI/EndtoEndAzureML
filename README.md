@@ -1,23 +1,14 @@
 # EndtoEndAzureML
-FastHack 2021 End to End Azure ML
-# FastTrack for Azure
+Welcome to FastHack 2021 project - End to End Azure ML. In this hack project, our primmary goal is to curate and validate Azure ML artifacts in an effort to ease the delivery of Azure Machine Learning projects/engagements (1 to many) for FastTrack customers. We will review the typical journey a data scientist would take, starting from ML model creation, all the way to operationalizng the model in a team environment, following Agile methodology.
 
-> **Welcome to our FTA internal GitHub! Any question or feedback feel free to reach out to the [HUB Engineering Enablement Team](mailto:ftaee@microsoft.com).**
+# Typical life cycle of a machine learning project with Azure ML.
 
-Azure Roadmap: [Azure Public Roadmap](https://azure.microsoft.com/en-us/roadmap/) | [FY20 Azure Priorities](https://microsoft.sharepoint.com/:p:/r/sites/Infopedia_G01KC/_layouts/15/Doc.aspx?sourcedoc=%7BB1627D48-0E45-4998-9B08-0F0E9237485D%7D&file=Azure%20FY20%20Priorities.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&CID=D255B80C-F7E4-4970-943D-10F1F633C04F&wdLOR=cEBE61DBD-E9ED-4268-8B93-451347DEF17A) | [Internal Roadmap](https://roadmapanddisclosure.azurewebsites.net/)
 
-FTA resources: [FTA Engagements](https://msit.powerbi.com/groups/0348d075-a382-4516-ad0f-17e8dcf6989c/reports/c6d979ec-6393-4ed6-b1cf-2e02fe2f3f33/ReportSection68e4db50be0b71806631) | [FTA Service Leads](https://msit.powerbi.com/groups/0348d075-a382-4516-ad0f-17e8dcf6989c/reports/a481c3da-1752-42b9-b15b-1c48904a7052/ReportSection) | [FTA Credentials](https://aka.ms/FTACredentialingTeam)
 
-Domain Technical maps: [Technical maps overview](articles/domain-technical-maps/technical-maps-overview.md) | [Data](articles/domain-technical-maps/Data.md) | [App Dev](articles/domain-technical-maps/appdev.md) | [Migrations](articles/domain-technical-maps/migrations.md) 
-
-While the resources are aligned in Categories and Scenarios for ease of use, please be aware that the learning resources can be used interchangably for multiple scenarios. 
+ 
 
 # Engagements delivery guidelines and learning resources
 
-| Categories                 | Scenarios                                                                                                                | Learning                                                    |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| Networking                 | [DC Migration](articles/dc-migration)                                                                                                             | [DC Migration Learning Resources](articles/dc-migration/dc-migration-learning.md)                             |
-|                            | [Virtual Machines](articles/virtual-machines/README.md)                                                                                                         | [Virtual Machines Learning Resources](articles/virtual-machines/virtual-machines-learning.md)                         |
 
 # Contributing
 
